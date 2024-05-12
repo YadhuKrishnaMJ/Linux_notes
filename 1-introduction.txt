@@ -1,2 +1,13 @@
 Linux tutorial
 ................................................
+
+Commands:
+
+->ls
+    - show all files in the directory
+    - ls -l gives more information
+    - Meta characters *,?
+        - ls ch*.doc , starting with ch and ending with doc
+        - ? is for single character, while * as many as characters
+    - ls -a reveals all hidden files
+    
